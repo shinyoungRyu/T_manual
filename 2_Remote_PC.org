@@ -1,5 +1,6 @@
 * Software
  | * Anydesk | [[https://dali2.tistory.com/m/761][link]]|
+ | * go.anydesk | [[https://go.anydesk.com/][link]]|
  | * steam link | [[][link]]|
 
 * Hardware 
