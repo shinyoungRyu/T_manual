@@ -1,0 +1,4 @@
+shortcuts [[https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10][link]]
+
+
+new desk top: ctrl+win+d,         desktops show: win+tab 
