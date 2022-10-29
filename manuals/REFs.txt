@@ -1,0 +1,9 @@
+upload ref1 (arduino IDE setting)
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=pa3018&logNo=221481983862
+
+upload ref2 (physical wire setting)
+https://rudalskim.tistory.com/27
+
+upload ref etc
+https://makerspace.steamedu123.com/entry/ESP32-ESP32-CAM-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+https://m.blog.naver.com/jhkim119/222440941948
